@@ -2,6 +2,6 @@
 Assignment repository for UNT CSCE1015
 
 ## EUID
-$as4560
+as4560
 ## Favorite Food
-$Mapo Tofu
+Mapo Tofu
